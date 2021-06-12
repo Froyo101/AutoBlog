@@ -1,0 +1,16 @@
+h1 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#postField {
+  margin: 50px auto;
+  width: 50vw;
+  height: 50vh;
+  display: block;
+}
+
+#btnGen {
+  margin: 0 auto;
+  display: block;
+}
